@@ -1,2 +1,2 @@
-include ":AndroidSocketIO"
-include ":AndroidSocket"
+include ":websockets-rxjava"
+include ":websockets-rxjava-example"
